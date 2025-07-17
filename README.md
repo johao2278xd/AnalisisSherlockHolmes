@@ -35,8 +35,8 @@ mindmap
         - Demostración de su inocencia por Holmes.
         - Liberada y exonerada, su vida recupera la normalidad.
       Grace Dunbar
-        - La verdadera asesina (revelada al final).
-        - Su motivo (celos y desesperación) es expuesto.
+        - La verdadera asesina ,revelada al final.
+        - Su motivo ,celos y desesperación, es expuesto.
         - Se enfrenta a las consecuencias legales de sus actos.
       Neil Gibson
         - Víctima del asesinato.
