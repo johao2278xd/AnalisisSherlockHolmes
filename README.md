@@ -23,7 +23,7 @@ mindmap
         - Confiesa haber usado la droga para vengarse.
         - Es entregado a la justicia por Holmes.
       Leon Sterndale
-        - Asesino de Brenda Tregennis (por venganza de Mortimer).Escapa a África, pero su culpa es conocida por Holmes.
+        - Asesino de Brenda Tregennis ,por venganza de Mortimer.Escapa a África, pero su culpa es conocida por Holmes.
         - Su destino es incierto, pero moralmente condenado.
       Holmes y Watson
         - Resuelven un caso complejo y moralmente ambiguo.
