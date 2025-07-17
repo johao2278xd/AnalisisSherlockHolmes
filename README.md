@@ -14,7 +14,7 @@ mindmap
         - Éxito en la resolución del caso.
         - Demostración de la perspicacia de Holmes.
 
-   El pie del diablo
+    El pie del diablo
       Brenda Tregennis
         - Víctima fatal del "pie del diablo".
         - Muere en circunstancias misteriosas y aterradoras.
@@ -22,8 +22,8 @@ mindmap
         - Único sobreviviente del efecto inicial.
         - Confiesa haber usado la droga para vengarse.
         - Es entregado a la justicia por Holmes.
-    Leon Sterndale.
-        - Asesino de Brenda Tregennis (por venganza de Mortimer). Escapa a África, pero su culpa es conocida por Holmes.
+      Leon Sterndale
+        - Asesino de Brenda Tregennis (por venganza de Mortimer).Escapa a África, pero su culpa es conocida por Holmes.
         - Su destino es incierto, pero moralmente condenado.
       Holmes y Watson
         - Resuelven un caso complejo y moralmente ambiguo.
