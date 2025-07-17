@@ -14,7 +14,7 @@ mindmap
         - Éxito en la resolución del caso.
         - Demostración de la perspicacia de Holmes.
 
-  El pie del diablo
+   El pie del diablo
       Brenda Tregennis
         - Víctima fatal del "pie del diablo".
         - Muere en circunstancias misteriosas y aterradoras.
